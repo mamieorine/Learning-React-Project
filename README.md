@@ -1,2 +1,1 @@
-# Learning-React-Project
-Learning React Project
+## Learning Project
